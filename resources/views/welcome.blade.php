@@ -214,6 +214,38 @@
                 </a>
             </div>
 
+            <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
+                <a href="#">
+                    <img class="hover:grow hover:shadow-lg" src="{{ asset('images/products/product_684036.jpg') }}">
+                    <div class="pt-3 flex items-center justify-between">
+                        <p class="mb-2">FC-U72325GPS</p>
+                    </div>
+                    <p class="pt-1 text-gray-900">
+                        U-BLOX U7(GPS or GLONASS)<br>
+                        UART / USB Interface<br>
+                        BODY=23*25*6.8mm<br>
+                        Welcome Factory Company Request Sample to Test and Trial<br>
+                        Production...<br>
+                    </p>
+                </a>
+            </div>
+
+            <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
+                <a href="#">
+                    <img class="hover:grow hover:shadow-lg" src="{{ asset('images/products/product_690699.jpg') }}">
+                    <div class="pt-3 flex items-center justify-between">
+                        <p class="mb-2">FC-U81833GGNS</p>
+                    </div>
+                    <p class="pt-1 text-gray-900">
+                        U-BLOX NEO-M8N(GPS/GLONASS/北斗)<br>
+                        UART / USB Interface<br>
+                        BODY=35*46*15 mm<br>
+                        Welcome Factory Company Request Sample to Test and Trial<br>
+                        Production...<br>
+                    </p>
+                </a>
+            </div>
+
         </div>
 
     </section>
